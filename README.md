@@ -2,6 +2,8 @@
 
 A game project exploring NPC behavior, squad commands and role-based objectives in a bank-heist scenario. Play as a robber, a police officer or a bystander, with a different objective for each role.
 
+**[Watch the gameplay demonstration on YouTube](https://youtu.be/P8hvw4A--zM)**
+
 The repository contains a **Unity C# project** and a separate **HTML/CSS/JavaScript browser prototype**. They are distinct implementations of the same game concept.
 
 ![Unity bank scene](unity/Preview-Bank.png)
