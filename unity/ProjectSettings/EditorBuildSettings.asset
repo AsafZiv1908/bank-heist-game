@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9be7a1ca69f40764cbd336754bd2e7fb
+  - enabled: 1
+    path: Assets/Scenes/Street.unity
+    guid: 9bb86c96c27e5ee4c9a1eef9f4a23f3e
+  - enabled: 1
+    path: Assets/Scenes/Bank.unity
+    guid: 519a5c6b70037624891baced91a04238
+  - enabled: 1
+    path: Assets/Scenes/Vault.unity
+    guid: 900db28242d66e74b9c7816631f990dd
+  - enabled: 1
+    path: Assets/Scenes/BackAlley.unity
+    guid: ef4c29db3efe3e64d9411ccd0f9ba4fa
+  - enabled: 1
+    path: Assets/Scenes/Sewers.unity
+    guid: fe16729599cd2704aadb2556a32b73bc
+  m_configObjects: {}

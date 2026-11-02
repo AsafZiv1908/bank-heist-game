@@ -1,0 +1,65 @@
+Unity version: 6000.5.7f1
+Mode: real Unity Editor Play Mode
+
+HEIST_PLAY_TESTS_SUCCESS: 58 integration checks passed.
+
+HEIST_PASS: MainMenu has working role selector
+HEIST_PASS: Visible menu buttons have saved click callbacks
+HEIST_PASS: Street: entrance and ENTER BANK are navigable
+HEIST_PASS: Street: complete route to ENTER BANK
+HEIST_PASS: Robber menu starts first-person player
+HEIST_PASS: Street NPCs on baked NavMesh
+HEIST_PASS: Robber has two teammates
+HEIST_PASS: Bank: entrance and VAULT are navigable
+HEIST_PASS: Bank: complete route to VAULT
+HEIST_PASS: Bank: entrance and REAR EXIT are navigable
+HEIST_PASS: Bank: complete route to REAR EXIT
+HEIST_PASS: Bank: entrance and TO STREET are navigable
+HEIST_PASS: Bank: complete route to TO STREET
+HEIST_PASS: Player HP, GOLD and ammo persist in Bank
+HEIST_PASS: NPC HP and GOLD persist
+HEIST_PASS: Customers lie down when robbers enter
+HEIST_PASS: FIFO queue contains six customers
+HEIST_PASS: Squadmates keep separate positions
+HEIST_PASS: Hold command works
+HEIST_PASS: Retreat command works
+HEIST_PASS: Attack command works
+HEIST_PASS: NPC damage lowers HP
+HEIST_PASS: Vault: entrance and BANK LOBBY are navigable
+HEIST_PASS: Vault: complete route to BANK LOBBY
+HEIST_PASS: Vault transition retains player status
+HEIST_PASS: Gold tables add money and deplete supplies
+HEIST_PASS: Enemy damage persists when returning to Bank
+HEIST_PASS: Bank has separate rear escape door
+HEIST_PASS: BackAlley: entrance and Climb down into the sewers are navigable
+HEIST_PASS: BackAlley: complete route to Climb down into the sewers
+HEIST_PASS: BackAlley: entrance and BANK REAR DOOR are navigable
+HEIST_PASS: BackAlley: complete route to BANK REAR DOOR
+HEIST_PASS: Rear door loads BackAlley
+HEIST_PASS: Sewers: entrance and Escape through the sewers are navigable
+HEIST_PASS: Sewers: complete route to Escape through the sewers
+HEIST_PASS: Sewers: entrance and BACK TO ALLEY are navigable
+HEIST_PASS: Sewers: complete route to BACK TO ALLEY
+HEIST_PASS: Manhole loads Sewers with gold retained
+HEIST_PASS: Robber sewer escape wins mission
+HEIST_PASS: Police role has officer squad
+HEIST_PASS: NPC commander is replaced after death
+HEIST_PASS: Police win by stopping all robbers
+HEIST_PASS: Bystander is unarmed
+HEIST_PASS: Bank customers stand before breach
+HEIST_PASS: FIFO service advances customer queue
+HEIST_PASS: Bystander recruits customers
+HEIST_PASS: Two customers evacuate safely
+HEIST_PASS: First-person raycast shooting damages target and consumes ammo
+HEIST_PASS: Reload refills magazine after delay
+HEIST_PASS: Physics grenade explodes and applies damage
+HEIST_PASS: Player grenade command consumes supply
+HEIST_PASS: Pause stops game time
+HEIST_PASS: Pause UI is visible
+HEIST_PASS: Resume restores game time
+HEIST_PASS: NPC grenade command consumes teammate supply
+HEIST_PASS: Player death displays defeat
+HEIST_PASS: Autonomous NPC commander completes bank-vault-rear-door-sewer escape
+HEIST_PASS: Mission timer ends overdue operation
+
+WINDOWS_SMOKE_SUCCESS: Menu, first-person player, bank/alley/sewer transitions, HP/GOLD persistence, grenade assets and victory checked in the Windows executable.
