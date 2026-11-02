@@ -2,11 +2,31 @@
 
 A game project exploring NPC behavior, squad commands and role-based objectives in a bank-heist scenario. Play as a robber, a police officer or a bystander, with a different objective for each role.
 
-**[Watch the gameplay demonstration on YouTube](https://youtu.be/P8hvw4A--zM)**
-
 The repository contains a **Unity C# project** and a separate **HTML/CSS/JavaScript browser prototype**. They are distinct implementations of the same game concept.
 
-![Unity bank scene](unity/Preview-Bank.png)
+## Gameplay highlights
+
+A 54-second highlight reel covering squad interaction, the vault, combat, escape, police response and civilian rescue. Recorded from the **V33 Windows build**.
+
+https://github.com/user-attachments/assets/1252a8d9-1977-43a4-80bb-f475fb574edc
+
+[Watch the full gameplay recording on YouTube](https://youtu.be/P8hvw4A--zM).
+
+The video and screenshots show V33. The editable Unity source in this repository is an earlier version; see [Version scope](#version-scope).
+
+## Screenshots from V33
+
+**Police response outside the bank**
+
+![Police response outside the bank in Bank Heist V33](docs/images/police-response-v33.png)
+
+**Combat and squad behavior inside the bank**
+
+![Robber squad and combat inside the bank in Bank Heist V33](docs/images/bank-combat-v33.png)
+
+**Civilian rescue outcome**
+
+![Rescued civilians beside an ambulance in Bank Heist V33](docs/images/civilian-rescue-v33.png)
 
 ## Gameplay and technical features
 
